@@ -1,2 +1,2 @@
-HTML,CSS,JavaScript Project
+HTML,CSS,JavaScript 
 Project documentation
